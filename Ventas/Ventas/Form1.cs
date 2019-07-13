@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("El deseo de vivir es más grande que cualquier otro elemento, esa es la luz de la gracia.");
         }
     }
 }
